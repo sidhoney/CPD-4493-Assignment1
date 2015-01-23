@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">álbum de recortes</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="Taj">Taj Mahal</string>
+    <string name="Pyramid">La Gran Pirámide de Giza</string>
+    <string name="Stone">henge de piedra</string>
+    <string name="Wall">La Gran Muralla China</string>
+  	<string name="TajLocation">" Ubicación: Agra (India )"</string>
+    <string name="PyramidGiza">" Location: El Giza (Egypt)"</string>
+    <string name="StonehengeWilt">" Ubicación: El Giza (Egipto )"</string>
+    <string name="WallChina">" Ubicación: China"</string>
+    
+</resources>

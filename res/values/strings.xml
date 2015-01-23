@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ScrapBook-Sid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+<string name="Taj">Taj Mahal</string>
+    <string name="Pyramid">The Great Pyramid of Giza</string>
+    <string name="Stone">Stonehenge</string>
+    <string name="Wall">The Great Wall of China</string>
+    <string name="TajLocation">" Location: Agra (India)"</string>
+    <string name="PyramidGiza">" Location: El Giza (Egypt)"</string>
+    <string name="StonehengeWilt">" Location: Wiltshire (England)"</string>
+    <string name="WallChina">" Location: China"</string>
+</resources>
